@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="49_gya" size="5.000000 3.022857" />
+    <ImageTarget name="48_tra" size="5.000000 3.021131" />
+    <ImageTarget name="47_ksh" size="5.000000 3.021131" />
+    <ImageTarget name="46_ha" size="5.000000 3.286550" />
+    <ImageTarget name="45_sa" size="5.000000 3.209594" />
+    <ImageTarget name="44_shha" size="5.000000 3.211429" />
+    <ImageTarget name="43_sha" size="5.000000 3.209594" />
+    <ImageTarget name="42_wa" size="5.000000 3.209594" />
+    <ImageTarget name="41_la" size="5.000000 3.205933" />
+    <ImageTarget name="40_ra" size="5.000000 3.215103" />
+    <ImageTarget name="39_ya" size="5.000000 3.198634" />
+    <ImageTarget name="38_ma" size="5.000000 3.138207" />
+    <ImageTarget name="37_bha" size="5.000000 3.140000" />
+    <ImageTarget name="36_ba" size="5.000000 3.134626" />
+    <ImageTarget name="35_pha" size="5.000000 3.141795" />
+    <ImageTarget name="34_pa" size="5.000000 3.127490" />
+    <ImageTarget name="33_na" size="5.000000 3.186750" />
+    <ImageTarget name="32_dhha" size="5.000000 3.188571" />
+    <ImageTarget name="31_daa" size="5.000000 3.183115" />
+    <ImageTarget name="30_thaa" size="5.000000 3.190394" />
+    <ImageTarget name="29_taa" size="5.000000 3.175868" />
+    <ImageTarget name="28_ana" size="5.000000 3.183895" />
+    <ImageTarget name="27_Dha" size="5.000000 3.185714" />
+    <ImageTarget name="26_Da" size="5.000000 3.180262" />
+    <ImageTarget name="25_Tha" size="5.000000 3.187536" />
+    <ImageTarget name="24_Ta" size="5.000000 3.173022" />
+    <ImageTarget name="23_nja" size="5.000000 3.089663" />
+    <ImageTarget name="22_jha" size="5.000000 3.091429" />
+    <ImageTarget name="21_ja" size="5.000000 3.086138" />
+    <ImageTarget name="20_chha" size="5.000000 3.093196" />
+    <ImageTarget name="19_cha" size="5.000000 3.079112" />
+    <ImageTarget name="18_nga" size="5.000000 3.089663" />
+    <ImageTarget name="17_gha" size="5.000000 3.091429" />
+    <ImageTarget name="16_ga" size="5.000000 3.086138" />
+    <ImageTarget name="15_kha" size="5.000000 3.093196" />
+    <ImageTarget name="14_ka" size="5.000000 3.079112" />
+    <ImageTarget name="13_uh" size="5.000000 3.209594" />
+    <ImageTarget name="12_un" size="5.000000 3.209594" />
+    <ImageTarget name="11_au" size="5.000000 3.211429" />
+    <ImageTarget name="10_o" size="5.000000 3.205933" />
+    <ImageTarget name="09_ai" size="5.000000 3.213265" />
+    <ImageTarget name="08_e" size="5.000000 3.198634" />
+    <ImageTarget name="07_ri" size="5.000000 3.209594" />
+    <ImageTarget name="06_oo" size="5.000000 3.209594" />
+    <ImageTarget name="05_u" size="5.000000 3.209594" />
+    <ImageTarget name="04_ii" size="5.000000 3.211429" />
+    <ImageTarget name="03_i" size="5.000000 3.205933" />
+    <ImageTarget name="02_aa" size="5.000000 3.213265" />
+    <ImageTarget name="01_a" size="5.000000 3.198634" />
+  </Tracking>
+</QCARConfig>
