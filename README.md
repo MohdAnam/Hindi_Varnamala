@@ -1,9 +1,9 @@
 
 # Hindi_Varnamala
 - An Augmented Reality App which is based on Hindi Varnamala and show the 3d objects related to each letters.
-- This Application focuses on augmenting  3d Models related to Alphabet on physical Alphabet Book using unity 3D and vuforia .
+
 - It create a more engaging learning atmosphere With such an ecosystem, students become more engaged in their learning that will ultimately boost the number of students in School.
-- It will help students understand their lessons better and faster.
+- It will help students to understand the shape and size of different things which is better and faster.
 
 
 # Screenshots
@@ -14,7 +14,7 @@
  <figcaption>Scanning the custom made markers makes the associated 3D model pop up. </figcaption>
 <img src ="https://user-images.githubusercontent.com/98106477/177989569-b364a307-22f4-4536-aba7-b0964c6dfd6d.jpg" width = "700" height ="400">
 <table>
-<h2><b> Features of the 3D Models</b><h2>
+<h2><b> Features </b><h2>
 <tr> There are two basic features implemented on the 3D models - scaling and rotation of the 3D models using touch gestures. </tr>
   <tr>
     <td>Scanning the custom cube markers.</td>
