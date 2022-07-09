@@ -18,7 +18,7 @@
 <tr> There are two basic features implemented on the 3D models - scaling and rotation of the 3D models using touch gestures. </tr>
   <tr>
     <td>Scanning the custom cube markers.</td>
-     <td> Zooming the 3D model using touch gestures.</td>
+     <td> Scaling the 3D model using touch gestures.</td>
      
   </tr>
   <tr>
